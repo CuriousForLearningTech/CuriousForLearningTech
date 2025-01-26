@@ -1,7 +1,6 @@
+![logo](https://github.com/CuriousForLearningTech/CuriousForLearningTech/blob/main/Intro.png)
 
-![logo](https://github.com/CuriousForLearningTech/CuriousForLearningTech/Intro.png)
-
-<h1 align="center">Hi 👋, I'm Devesh M. Patil</h1>
+<h1 align="center">Hi 👋, I'm Devesh Patil</h1>
 <h3 align="center">Curious Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curiousforlearningtech&label=Profile%20views&color=0e75b6&style=flat" alt="curiousforlearningtech" /> </p>
