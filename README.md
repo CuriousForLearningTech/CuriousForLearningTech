@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Devesh Patil</h1>
 <h3 align="center">Curious Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=curiousforlearningtech&label=Profile%20views&color=0e75b6&style=flat" alt="curiousforlearningtech" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CuriousForLearningTech&label=Profile%20views&color=0e75b6&style=flat" alt="curiousforlearningtech" /> </p>
 
 * 🔭 I’m currently working on **SmrutiPhankha: An automated Alzhymer assistence**
 
@@ -41,12 +41,12 @@
 </p>
 
 <!-- Current Strick -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=curiousforlearningtech&" alt="curiousforlearningtech" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousForLearningTech&" alt="CuriousForLearningTech" /></p>
 
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=curiousforlearningtech&show_icons=true&locale=en&layout=compact" alt="curiousforlearningtech"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=curiousforlearningtech&show_icons=true&locale=en" alt="curiousforlearningtech" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CuriousForLearningTech&show_icons=true&locale=en&layout=compact" alt="curiousforlearningtech"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CuriousForLearningTech&show_icons=true&locale=en" alt="curiousforlearningtech" />
 </p>
 
 <br>
